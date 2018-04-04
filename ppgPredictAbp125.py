@@ -5,6 +5,7 @@ Created on Thu Jan 11 10:50:29 2018
 @author: FZM
 """
 
+#modify here 
 
 from scipy.io import loadmat
 import tensorflow as tf
